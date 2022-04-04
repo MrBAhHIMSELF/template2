@@ -47,7 +47,10 @@ const Navbar = () => {
       <Nav>
         <NavbarContainer>
           <NavLogo to="/">
-            <NavIcon src="./assets/logo.png" alt="logo" />
+            <NavIcon
+              src="https://image.pngaaa.com/601/4959601-middle.png"
+              alt="logo"
+            />
             DOG BITE DATA
           </NavLogo>
           <MobileIcon onClick={handleClick}>

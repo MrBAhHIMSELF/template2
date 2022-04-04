@@ -34,12 +34,7 @@ export const featuresData = [
     icon: iconStyle(BiSupport),
     imgClass: "four"
   },
-  {
-    name: "Pitbull Mix",
-    description: "We offer the highest value/cost ratio",
-    icon: iconStyle(BiDollar),
-    imgClass: "five"
-  },
+
   {
     name: "American Pit Bull Terrier	",
     description:
