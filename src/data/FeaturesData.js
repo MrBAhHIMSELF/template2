@@ -11,13 +11,14 @@ export const featuresData = [
   {
     name: "Pitbull",
     description:
-      "We offer the best data security to our clients, which makes us stand out",
+      "Pit bulls are regularly cited as one of the most dangerous dog breeds. Between 2005 and 2016, Pit bull attacks led to 64.8 percent of all dog-related deaths. Over this decade, this type of dog caused 254 deaths",
     icon: iconStyle(BsFillShieldLockFill),
     imgClass: "one"
   },
   {
     name: "Shih Tzu",
-    description: "Our system is easy to use and integrate",
+    description:
+      "This breed is considered very happy-go-lucky and is typically not an aggressive dog. However, some Shih Tzu may show unwanted behavior including growling.",
     icon: iconStyle(IoIosOptions),
     imgClass: "two"
   },

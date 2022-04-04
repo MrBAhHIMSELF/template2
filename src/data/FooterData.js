@@ -34,19 +34,19 @@ export const footerSocialData = [
 
 export const footerData = [
   {
-    // title: "Main",
-    links: ["", "", "", ""]
+    title: "Main",
+    links: ["Blog", "FAQs", "Support", "About us"]
   },
   {
-    //   title: "Product",
-    links: ["", "", "", ""]
+    title: "Product",
+    links: ["Login", "Personal", "Business", "Team"]
   },
   {
-    // title: "Press",
-    links: ["", "", "", ""]
+    title: "Press",
+    links: ["Logos", "Events", "Stories", "Office"]
   },
   {
-    //  title: "Legal",
-    links: ["", " ", " ", ""]
+    title: "Legal",
+    links: ["GDPR", "Privacy Policy", "Terms of Service", "Disclaimer"]
   }
 ];
