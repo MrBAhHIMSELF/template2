@@ -12,7 +12,7 @@ import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <Router>
-      <GlobalStyle />
+      <GlobalStyle/>
       <Navbar />
       <Switch>
         <Route path="/" exact component={Home} />
