@@ -32,12 +32,12 @@ export const heroThree = {
   reverse: true,
   inverse: true,
   topLine: {
-    text: "Highly reputed brand"
+    text: "dogs should be illegal duh"
   },
-  headline: "Why us? ",
+  headline: "Dogs are bad ",
   description:
     "Our 9 year experience have allowed us to use the most innovative technologies and methodologies",
-  buttonLabel: "View Project",
+  buttonLabel: "View Visuals",
 
   linkTo: "/download",
   imgStart: "",
