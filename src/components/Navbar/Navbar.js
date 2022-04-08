@@ -47,7 +47,10 @@ const Navbar = () => {
       <Nav>
         <NavbarContainer>
           <NavLogo to="/">
-            <NavIcon src="./assets/logo.png" alt="logo" />
+            <NavIcon
+              src="https://media.istockphoto.com/vectors/the-dog-bites-a-man-vector-id1126092832?k=20&m=1126092832&s=170667a&w=0&h=bRLTG6dK9Ac7uohaJ15Ksov1FRdjQVQ6hCSuWMNUNXA="
+              alt="logo"
+            />
             DOG BITE DATA
           </NavLogo>
           <MobileIcon onClick={handleClick}>
