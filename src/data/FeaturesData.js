@@ -25,13 +25,14 @@ export const featuresData = [
   {
     name: "Chihuahua",
     description:
-      "Our code is written in highest standards, which makes it highly sustainable",
+      "Chihuahuas appear aggressive because they are inherently protective of their territory and highly protective of their owners. Being aggressive by showing their teeth, growling, barking, and biting is a way to defend themselves when they feel scared and need to protect themselves",
     icon: iconStyle(FaDog),
     imgClass: "three"
   },
   {
     name: "German Shepherd",
-    description: "Our team is available at all times in case you need us",
+    description:
+      "Most aggressive German Shepherds are aggressive because of their owners. German Shepherds need to be socialized and trained so that their territorial instincts can be harnessed. Otherwise, they may become territorial towards individuals that you don't want them to, like family friends.",
     icon: iconStyle(FaDog),
     imgClass: "four"
   },
@@ -39,7 +40,7 @@ export const featuresData = [
   {
     name: "American Pit Bull Terrier	",
     description:
-      "Our servers are located all over the world, therefore improving scalability and speed ",
+      "American pitbulls act up because of the lack of human contact. Pit bulls don't do well spending a lot of time alone. Being alone more than usual can cause a pit bull to misbehave.",
     icon: iconStyle(FaDog),
     imgClass: "five"
   },
@@ -47,7 +48,7 @@ export const featuresData = [
   {
     name: "Yorkshire Terrier	",
     description:
-      "Our servers are located all over the world, therefore improving scalability and speed ",
+      "In the case of acting out due to injury or illness, a Yorkie may bite, nip at, bark at or otherwise act aggressive particularly when his owner attempts to pick him up, touch him, or approaches him.",
     icon: iconStyle(FaDog),
     imgClass: "six"
   },
@@ -55,7 +56,7 @@ export const featuresData = [
   {
     name: "Rottweilers	",
     description:
-      "Our servers are located all over the world, therefore improving scalability and speed ",
+      "They say that poor owners, neglect, and abuse result in aggressive Rotweilers, not genetics. Without proper exercise, Rottweilers have a tendency to become destructive and extremely excited. These are not sedentary dogs. If an owner cannot give the dog attention and exercise, he should not own a Rottweiler. ",
     icon: iconStyle(FaDog),
     imgClass: "seven"
   },
@@ -69,7 +70,7 @@ export const featuresData = [
   {
     name: "Mixed Breed	",
     description:
-      "Our servers are located all over the world, therefore improving scalability and speed ",
+      "Most often a dog's aggression is motivated by fear, anxiety, conflict about what to expect and what to do and the anticipation of possible punishment.",
     icon: iconStyle(FaDog),
     imgClass: "eight"
   },
@@ -77,7 +78,7 @@ export const featuresData = [
   {
     name: "Maltese	",
     description:
-      "Our servers are located all over the world, therefore improving scalability and speed ",
+      "The Maltese can become aggressive when they feel threatened. It is easy for these tiny dogs to feel intimidated, even if you don't mean to be. When the Maltese feel threatened, they usually resort to barking, growling, and biting.",
     icon: iconStyle(FaDog),
     imgClass: "nine"
   }
