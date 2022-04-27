@@ -16,10 +16,36 @@ const Home = () => {
     )
       .then((results) => results.json())
       .then((data) => {
-        const { breed } = data.results[0];
-        setFirstBreed(breed.first);
-        setLastBreed(breed.last);
-        console.log(breed.last);
+        //console.log(data[0].borough)
+        const breed = data[0];
+        setFirstBreed(breed.borough);
+        setLastBreed(breed.species);
+        console.log(lastBreed);
+
+        /*  const breed = data[1];
+        setFirstBreed(breed.borough);
+        setLastBreed(breed.species);
+        console.log(lastBreed); 
+
+        const breed = data[2];
+        setFirstBreed(breed.borough);
+        setLastBreed(breed.species);
+        console.log(lastBreed); 
+
+        const breed = data[3];
+        setFirstBreed(breed.borough);
+        setLastBreed(breed.species);
+        console.log(lastBreed); 
+
+        const breed = data[4];
+        setFirstBreed(breed.borough);
+        setLastBreed(breed.species);
+        console.log(lastBreed); 
+
+        const breed = data[5];
+        setFirstBreed(breed.borough);
+        setLastBreed(breed.species);
+        console.log(lastBreed); */
       });
   }, []); // <-- Have to pass in [] here!
 
