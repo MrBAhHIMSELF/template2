@@ -38,8 +38,9 @@ export const heroThree = {
 
   buttonLabel: "DATA visualizations",
 
-  //linkTo: "/download",
-  //imgStart: "",
+  linkTo:
+    "https://www.google.com/maps/d/edit?hl=en&hl=en&mid=106HuKpZOByVcIS8tkH5iaHW9TcKHVg1U&ll=41.01870504181606%2C-74.95057966408221&z=9",
+  imgStart: "",
   //img: "./assets/svg/ChartUp.svg",
   start: "true"
 };
