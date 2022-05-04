@@ -31,8 +31,14 @@ function App() {
       <Switch>
         <Route path="/" exact component={Home} />
         <Route path="/signup" exact component={SignUp} />
+
         <Route path="/pricing" exact component={Pricing} />
       </Switch>
+      <iframe
+        src="https://www.google.com/maps/d/embed?mid=1fo3cJ2JueuXUar9WauhBsUJNNO7QC6JE&ehbc=2E312F"
+        width="700"
+        height="480"
+      ></iframe>
       <Footer />
     </Router>
   );
