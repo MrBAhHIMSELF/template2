@@ -39,7 +39,7 @@ export const heroThree = {
   buttonLabel: "DATA visualizations",
 
   linkTo:
-    "https://www.google.com/maps/d/edit?hl=en&hl=en&mid=106HuKpZOByVcIS8tkH5iaHW9TcKHVg1U&ll=41.01870504181606%2C-74.95057966408221&z=9",
+    "https://www.google.com/maps/d/embed?mid=1fo3cJ2JueuXUar9WauhBsUJNNO7QC6JE&ehbc=2E312F",
   imgStart: "",
   //img: "./assets/svg/ChartUp.svg",
   start: "true"
