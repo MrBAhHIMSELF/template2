@@ -53,9 +53,10 @@ const Home = () => {
     <>
       <Hero />
       <Features />
-      <Content {...heroOne} />
-      <Content {...heroTwo} />
-      <Content {...heroThree} />
+      {/* <Content {...heroOne} />
+      <Content {...heroTwo} /> */}
+      {/*  */}
+
       <Carousel />
     </>
   );
