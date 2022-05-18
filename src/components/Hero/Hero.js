@@ -20,7 +20,7 @@ const Hero = () => {
           More than 4.5 million people are bitten by dogs each year in the
           United States, and more than 800,000 receive medical attention for dog
           bites, according to the U.S. Centers for Disease Control (CDC). At
-          least half of those bitten are children
+          least half of those bitten are children.
         </HeroText>
         <ButtonWrapper>
           <HeroButton>Learn Why Dogs Are Dangerous</HeroButton>

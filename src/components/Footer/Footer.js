@@ -23,7 +23,7 @@ function Footer() {
           <FooterColumn id="footerLogo">
             <FooterLogo to="/">
               <SocialIcon src="https://media.istockphoto.com/vectors/the-dog-bites-a-man-vector-id1126092832?k=20&m=1126092832&s=170667a&w=0&h=bRLTG6dK9Ac7uohaJ15Ksov1FRdjQVQ6hCSuWMNUNXA=" />
-              Project BY Mamadou Bah & Kiara Mclarty
+              Project BY Mamadou Bah & Kiara McLarty
             </FooterLogo>
             <FooterAddress>
               Project Inspired by Aldar Satori https://youtu.be/53i9EHsJGxw

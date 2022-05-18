@@ -9,7 +9,7 @@ import SignUp from "./pages/SignupPage";
 import Pricing from "./pages/PricingPage";
 import Footer from "./components/Footer/Footer";
 
-function App() {
+function App(componentDidMount) {
   componentDidMount = () => {
     fetch(
       "https://data.cityofnewyork.us/resource/rsgh-akpg.json?$$app_token=3yrs3ewX0YYxoOpKKiJ0aWIxW"
