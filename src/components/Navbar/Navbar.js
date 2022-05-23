@@ -28,9 +28,9 @@ const Navbar = () => {
   const scrollTo = (id) => {
     const element = document.getElementById(id);
 
-    element.scrollIntoView({
-      behavior: "smooth"
-    });
+    //element.scrollIntoView({
+    // behavior: "smooth"
+    // });
   };
 
   const closeMobileMenu = (to, id) => {
